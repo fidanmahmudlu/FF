@@ -1,0 +1,1 @@
+﻿DBCC CHECKIDENT ('ProductTbl', RESEED, 1);
